@@ -1,6 +1,7 @@
-# quotes
+QUOTES
 
-> A Vue.js project
+> A Vue JS sample application where user can add the quotes at a number of 10 and also they can delete the same quotes.
+A progress bar is displayed to get the information of number of quotes added.
 
 ## Build Setup
 
